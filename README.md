@@ -1,2 +1,0 @@
-# ejerciciocontrasenia
-Created with CodeSandbox

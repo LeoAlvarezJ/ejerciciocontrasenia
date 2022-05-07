@@ -15,7 +15,7 @@ btnEnviar.addEventListener("click", () => {
   let usuarioIngresado: string = dato1.value;
   let contraseñaIngresada: string = dato2.value;
 
-  if (usuario == usuarioIngresado && contraseña == contraseñaIngresada) {
+  if (usuario === usuarioIngresado && contraseña === contraseñaIngresada) {
     console.log("Usted ha ingresado correctamente!");
   } else {
     console.log("Usuario o contraseña incorrectos");
